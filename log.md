@@ -14,4 +14,4 @@
 
 **Today's Progress**: Worked on CSS Foundations course from [The Odin Project](www.theodinproject.com).
 
-**Thoughts**: For some reason, it was tough for me to understand the material today. I had to look at multiple YouTUbe videos in addition to the course material in order to wrap my head around it. Thankfully, after starting the exercises included within the program, I started to understand the material a lot more. Again, I'm really enjoying The Odin Project's project-based learning approach, it reminds me a lot of my coursework from university.
+**Thoughts**: For some reason, it was tough for me to understand the material today. I had to look at multiple YouTube videos in addition to the course material in order to wrap my head around it. Thankfully, after starting the exercises included within the program, I started to understand the material a lot more. Again, I'm really enjoying The Odin Project's project-based learning approach, it reminds me a lot of my coursework from university.
