@@ -15,3 +15,12 @@
 **Today's Progress**: Worked on CSS Foundations course from [The Odin Project](www.theodinproject.com).
 
 **Thoughts**: For some reason, it was tough for me to understand the material today. I had to look at multiple YouTube videos in addition to the course material in order to wrap my head around it. Thankfully, after starting the exercises included within the program, I started to understand the material a lot more. Again, I'm really enjoying The Odin Project's project-based learning approach, it reminds me a lot of my coursework from university.
+
+### Day 3: June 2nd, 2022
+
+**Today's Progress**: Completed CSS Foundations, Inspecting HTML and CSS, and The Box Model modules from the [The Odin Project's](www.theodinproject.com) CSS Foundations course.
+
+**Thoughts**: Today I furthered my progress with developing with CSS. I applied the CSS learnings from the previous lesson into the recipes project from Day 1. Additionally, I learned how to utilize Chrome Dev Tools to inspect and edit webpages, along with understanding the Box Model through exercises in the css-exercises repo. 
+
+**Link(s) to work**
+1. [Recipes Project](https://github.com/csiv23/odin-recipes)
