@@ -27,7 +27,7 @@
 
 ### Day 4: June 3rd, 2022
 
-**Today's Progress**: Completed the Block and Inline module from from the [The Odin Project](www.theodinproject.com) and completed the required CSS exercises.
+**Today's Progress**: Completed the Block and Inline module from the [The Odin Project](www.theodinproject.com) and completed the required CSS exercises.
 
 **Thoughts**: Today I worked on learning the difference between block and inline elements, and completed the required exercises relating to margin and padding. The Box Model was the first part of the curriculum that challenged me, which although frustrating, I consider a good thing. I used other online resources such as YouTube when I was stuck on the exercises, and I eventually made my way through them.
 
@@ -41,4 +41,4 @@
 
 **Today's Progress**: WOrked on Flexbox exercises from [The Odin Project](www.theodinproject.com).
 
-**Thoughts**: I have reached my knowledge peak. Today was the first time I got stuck on one of the exercises. I looked for other resources online, and found [FLexbox Froggy](https://flexboxfroggy.com/), which helped me review my knowledge of Flexbox. I looked at someone walk through the exercise that I was having difficulty with, which helped me a lot. People online said Flexbox gets easier over time, so hopefully I'll get the hang of it as I complete more exercises.
+**Thoughts**: I have reached my knowledge peak. Today was the first time I got stuck on one of the exercises. I looked for other resources online, and found [Flexbox Froggy](https://flexboxfroggy.com/), which helped me review my knowledge of Flexbox. I looked at someone walk through the exercise that I was having difficulty with, which helped me a lot. People online said Flexbox gets easier over time, so hopefully I'll get the hang of it as I complete more exercises.
