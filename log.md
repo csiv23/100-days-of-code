@@ -56,3 +56,9 @@
 
 **Thoughts**: I figured out my issue. It was from within the html file, where I didn't have an element inside a class it should've been. Although this originally made me feel frustrated, I'm used to dealing with small issues like this in programming, so it's nothing new to me. Today I worked on The Landing Page project from the CSS curriculum. Additionally, I found another resource, [Flexbox Zombies](https://mastery.games/flexboxzombies/), to help me with learning Flexbox further. It's my favorite resource I've used so far.
 
+### Day 9: June 8th, 2022
+
+**Today's Progress**: Continued work on Landing Page from [The Odin Project](www.theodinproject.com), worked on [Flexbox Zombies](https://mastery.games/flexboxzombies/) exercises.
+
+**Thoughts**: I worked on the landing page project for a bit, but I decided that I'd complete the Flexbox Zombies exercises first because I wanted to have a deeper understanding of the properties of Flexbox before I used them in a project. I can't say enough good things about the game, it really teaches you how to use Flexbox and figure out common problems well. I got stuck on some of the problems related to flex-grow and flex-shrink, but I eventually figured them out. 
+
