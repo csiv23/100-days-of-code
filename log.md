@@ -39,6 +39,20 @@
 
 ### Day 6: June 5th, 2022
 
-**Today's Progress**: WOrked on Flexbox exercises from [The Odin Project](www.theodinproject.com).
+**Today's Progress**: Worked on Flexbox exercises from [The Odin Project](www.theodinproject.com).
 
 **Thoughts**: I have reached my knowledge peak. Today was the first time I got stuck on one of the exercises. I looked for other resources online, and found [Flexbox Froggy](https://flexboxfroggy.com/), which helped me review my knowledge of Flexbox. I looked at someone walk through the exercise that I was having difficulty with, which helped me a lot. People online said Flexbox gets easier over time, so hopefully I'll get the hang of it as I complete more exercises.
+
+
+### Day 7: June 6th, 2022
+
+**Today's Progress**: Continued work on Flexbox exercises from [The Odin Project](www.theodinproject.com).
+
+**Thoughts**: Yesterday I was really frustrated, so I went into today with mixed feelings about Flexbox. I continued to work on the exercise I was stuck on, but I couldn't get it to work no matter how hard I tried. I consulted a variety of content from YouTube to further understand Flexbox, such as [this walkthrough of the exercise from Jaybees Tech Talk](https://youtu.be/B4HS13jyvk8), [Enavo Tuts' "A Comprehensive Guide to Flexbox Alignment](https://youtu.be/B4HS13jyvk8), and [Kevin Powell's "Learn flexbox the easy way"](https://www.youtube.com/watch?v=u044iM9xsWU). All of these resources were helpful in teaching me more about Flexbox, but I still couldn't figure out my issue. I still haven't given up, but I'll try again tomorrow. 
+
+### Day 8: June 7th, 2022
+
+**Today's Progress**: Continued work on Flexbox exercises from [The Odin Project](www.theodinproject.com).
+
+**Thoughts**: I figured out my issue. It was from within the html file, where I didn't have an element inside a class it should've been. Although this originally made me feel frustrated, I'm used to dealing with small issues like this in programming, so it's nothing new to me. Today I worked on The Landing Page project from the CSS curriculum. Additionally, I found another resource, [Flexbox Zombies](https://mastery.games/flexboxzombies/), to help me with learning Flexbox further. It's my favorite resource I've used so far.
+
