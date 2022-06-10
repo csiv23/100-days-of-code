@@ -62,3 +62,8 @@
 
 **Thoughts**: I worked on the landing page project for a bit, but I decided that I'd complete the Flexbox Zombies exercises first because I wanted to have a deeper understanding of the properties of Flexbox before I used them in a project. I can't say enough good things about the game, it really teaches you how to use Flexbox and figure out common problems well. I got stuck on some of the problems related to flex-grow and flex-shrink, but I eventually figured them out. 
 
+### Day 10: June 9th, 2022
+
+**Today's Progress**: Worked on [Flexbox Zombies](https://mastery.games/flexboxzombies/) exercises.
+
+**Thoughts**: Today I continued working on Flexbox Zombies, and got through four of the chapters which covered flex-basis, flex-order, flex-wrap, and align-content. I decided to take a break from the Landing Page project for today, but I'm going to get back to it tomorrow. 
