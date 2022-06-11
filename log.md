@@ -67,3 +67,10 @@
 **Today's Progress**: Worked on [Flexbox Zombies](https://mastery.games/flexboxzombies/) exercises.
 
 **Thoughts**: Today I continued working on Flexbox Zombies, and got through four of the chapters which covered flex-basis, flex-order, flex-wrap, and align-content. I decided to take a break from the Landing Page project for today, but I'm going to get back to it tomorrow. 
+
+### Day 11: June 10th, 2022
+
+**Today's Progress**: Finished work on [Flexbox Zombies](https://mastery.games/flexboxzombies/) exercises, worked on Landing Page from [The Odin Project](www.theodinproject.com), 
+
+**Thoughts**: I am SO happy I took the time to go through Flexbox Zombies. Working on the Landing Page Project felt like a breeze. I have one more section left to do, but I'm so happy with how its turning out. I feel like I fully understand Flexbox, so I'm ecstatic. I can't wait to finish up the project tomorrow. 
+
