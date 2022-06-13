@@ -77,7 +77,7 @@
 
 **Today's Progress**: Finished work on Landing Page from [The Odin Project](www.theodinproject.com).
 
-**Thoughts**: Yesterday I ended up taking a break from coding. I had a lot of stuff going on in my personal life, and still felt kindof burnt out. To make up for it, I decided that today I will finish the landing page project, regardless of how long it takes. Safe to say, it's done! It was kindof a burden to fix all of the small inconsistencies with the project, and to be fully honest I think it has a long way to go. However, I'm proud of where it is right now. Tomorrow, I begin learning about Javascript, and I'm pumped. I have experience with back-end from school, but combining it with my new front-end knowledge. 
+**Thoughts**: Yesterday I ended up taking a break from coding. I had a lot of stuff going on in my personal life, and still felt kindof burnt out. To make up for it, I decided that today I will finish the landing page project, regardless of how long it takes. Safe to say, it's done! It was kindof a burden to fix all of the small inconsistencies with the project, and to be fully honest I think it has a long way to go. However, I'm proud of where it is right now. Tomorrow, I begin learning about Javascript, and I'm pumped. I have experience with back-end from school, and I'm looking forward combining it with my new front-end knowledge. 
 
 
 **Link(s) to work**
