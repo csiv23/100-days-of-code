@@ -43,7 +43,6 @@
 
 **Thoughts**: I have reached my knowledge peak. Today was the first time I got stuck on one of the exercises. I looked for other resources online, and found [Flexbox Froggy](https://flexboxfroggy.com/), which helped me review my knowledge of Flexbox. I looked at someone walk through the exercise that I was having difficulty with, which helped me a lot. People online said Flexbox gets easier over time, so hopefully I'll get the hang of it as I complete more exercises.
 
-
 ### Day 7: June 6th, 2022
 
 **Today's Progress**: Continued work on Flexbox exercises from [The Odin Project](www.theodinproject.com).
@@ -74,3 +73,12 @@
 
 **Thoughts**: I am SO happy I took the time to go through Flexbox Zombies. Working on the Landing Page Project felt like a breeze. I have one more section left to do, but I'm so happy with how its turning out. I feel like I fully understand Flexbox, so I'm ecstatic. I can't wait to finish up the project tomorrow. 
 
+### Day 12: June 12th, 2022
+
+###Today's Progress##: Finished work on Landing Page from [The Odin Project](www.theodinproject.com).
+
+**Thoughts**: Yesterday I ended up taking a break from coding. I had a lot of stuff going on in my personal life, and still felt kindof burnt out. To make up for it, I decided that today I will finish the landing page project, regardless of how long it takes. Safe to say, it's done! It was kindof a burden to fix all of the small inconsistencies with the project, and to be fully honest I think it has a long way to go. However, I'm proud of where it is right now. Tomorrow, I begin learning about Javascript, and I'm pumped. I have experience with back-end from school, but combining it with my new front-end knowledge. 
+
+
+**Link(s) to work**
+1. [odin-landing-page](https://github.com/csiv23/odin-landing-page)
