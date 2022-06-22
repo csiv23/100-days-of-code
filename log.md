@@ -69,7 +69,7 @@
 
 ### Day 11: June 10th, 2022
 
-**Today's Progress**: Finished work on [Flexbox Zombies](https://mastery.games/flexboxzombies/) exercises, worked on Landing Page from [The Odin Project](www.theodinproject.com), 
+**Today's Progress**: Finished work on [Flexbox Zombies](https://mastery.games/flexboxzombies/) exercises, worked on Landing Page from [The Odin Project](www.theodinproject.com).
 
 **Thoughts**: I am SO happy I took the time to go through Flexbox Zombies. Working on the Landing Page Project felt like a breeze. I have one more section left to do, but I'm so happy with how its turning out. I feel like I fully understand Flexbox, so I'm ecstatic. I can't wait to finish up the project tomorrow. 
 
@@ -91,7 +91,7 @@
 
 ## Days 14 - 20: June 14-20, 2022
 
-**Progress**: Completed Project for [Sandbox](https://www.sandboxnu.com/) Application
+**Progress**: Completed Project for [Sandbox](https://www.sandboxnu.com/) Application.
 
 **Thoughts**: The past week I've worked on a project for Sandbox, a student-led software consultancy affiliated with Northeastern University. Although I am unable to put the code in here, I worked on developing the back-end of a javascript application using the Express framework within Node.js. This was a very new experience to me, so I had to do a lot of research. However, I learned more in this week than I have ever had before. Overall, I'm really happy with how my project turned out, and I think that the project made me much more comfortable with using Javascript.
 
@@ -100,3 +100,6 @@
 **Progress** Completed Rock, Paper, Scissors project from [The Odin Project](www.theodinproject.com), set up GitHub Pages.
 
 **Thoughts** Today was my first day back working through The Odin Project, and today's project felt like a breeze compared to my Sandbox application. Besides that, I set up GitHub pages, so I am now able to host the sites I create on my profile. This makes me really happy, as I can more easily display my work. I am really excited to keep working through the coursework of The Odin Project, and I can't wait to work on it tomorrow. 
+
+**Link(s) to work**
+1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
