@@ -88,3 +88,15 @@
 **Today's Progress**: Completed JS Fundamentals Parts 1, 2, and 3 from [The Odin Project](www.theodinproject.com).
 
 **Thoughts**: Today was a lot of review for me. Most of the content I went through today involved functions and data types within JavaScript, which I already knew a lot about from previous programming courses. However, I did end up learning some new concepts, specifically Function Expressions, Default Parameters, and the JavaScript Call Stack. I watched some videos to deepen my understanding, such as [this Function Expression video](https://www.youtube.com/watch?v=37ly8tCGFWA), [this Default Parameters video](https://www.youtube.com/watch?v=B1AjzDN_eHA), and [this JacaScript Call Stack video](https://www.youtube.com/watch?v=W8AeMrVtFLY). All of them were very helpful. Additionally, I learned about Chrome Dev Tools today. I didn't realize how in depth the Dev Tools were, and I realize now why they are viewed as such a big asset to web developers. As I spend more time on my projects, it is crucial that I have a deep understanding of them, so it was good that I learned about them today.
+
+## Days 14 - 20: June 14-20, 2022
+
+**Progress**: Completed Project for [Sandbox](https://www.sandboxnu.com/) Application
+
+**Thoughts**: The past week I've worked on a project for Sandbox, a student-led software consultancy affiliated with Northeastern University. Although I am unable to put the code in here, I worked on developing the back-end of a javascript application using the Express framework within Node.js. This was a very new experience to me, so I had to do a lot of research. However, I learned more in this week than I have ever had before. Overall, I'm really happy with how my project turned out, and I think that the project made me much more comfortable with using Javascript.
+
+## Day 21: June 22nd, 2022 
+
+**Progress** Completed Rock, Paper, Scissors project from [The Odin Project](www.theodinproject.com), set up GitHub Pages.
+
+**Thoughts** Today was my first day back working through The Odin Project, and today's project felt like a breeze compared to my Sandbox application. Besides that, I set up GitHub pages, so I am now able to host the sites I create on my profile. This makes me really happy, as I can more easily display my work. I am really excited to keep working through the coursework of The Odin Project, and I can't wait to work on it tomorrow. 
