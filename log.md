@@ -95,11 +95,17 @@
 
 **Thoughts**: The past week I've worked on a project for Sandbox, a student-led software consultancy affiliated with Northeastern University. Although I am unable to put the code in here, I worked on developing the back-end of a javascript application using the Express framework within Node.js. This was a very new experience to me, so I had to do a lot of research. However, I learned more in this week than I have ever had before. Overall, I'm really happy with how my project turned out, and I think that the project made me much more comfortable with using Javascript.
 
-## Day 21: June 22nd, 2022 
+## Day 21: June 21st, 2022 
 
 **Progress** Completed Rock, Paper, Scissors project from [The Odin Project](www.theodinproject.com), set up GitHub Pages.
 
-**Thoughts** Today was my first day back working through The Odin Project, and today's project felt like a breeze compared to my Sandbox application. Besides that, I set up GitHub pages, so I am now able to host the sites I create on my profile. This makes me really happy, as I can more easily display my work. I am really excited to keep working through the coursework of The Odin Project, and I can't wait to work on it tomorrow. 
+**Thoughts**: Today was my first day back working through The Odin Project, and today's project felt like a breeze compared to my Sandbox application. Besides that, I set up GitHub pages, so I am now able to host the sites I create on my profile. This makes me really happy, as I can more easily display my work. I am really excited to keep working through the coursework of The Odin Project, and I can't wait to work on it tomorrow. 
 
 **Link(s) to work**
 1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
+
+## Day 22: June 22nd, 2022
+
+**Progress** Read from DOM Manipulation and Events module from [The Odin Project](www.theodinproject.com)
+
+**Thoughts**: Today I learned about DOM Manipulation and events through Javascript, and it was overwhelming. This combined with me deciding to code later in the day caused me to really not want to code today. In order to get myself to understand the material more, I followed along with Wes Bos' tutorial [Make a JavaScript Drum Kit in Vanilla JS](https://www.youtube.com/watch?v=VuN8qwZoego). This video was really helpful, but I think I'm going to work on finding more resources so I can understand the concepts more.
