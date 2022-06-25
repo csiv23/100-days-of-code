@@ -109,3 +109,23 @@
 **Progress** Read from DOM Manipulation and Events module from [The Odin Project](www.theodinproject.com)
 
 **Thoughts**: Today I learned about DOM Manipulation and events through Javascript, and it was overwhelming. This combined with me deciding to code later in the day caused me to really not want to code today. In order to get myself to understand the material more, I followed along with Wes Bos' tutorial [Make a JavaScript Drum Kit in Vanilla JS](https://www.youtube.com/watch?v=VuN8qwZoego). This video was really helpful, but I think I'm going to work on finding more resources so I can understand the concepts more.
+
+## Day 23: June 23rd, 2022
+
+**Progress** Worked on Rock, Paper, Scissors Project
+
+**Thoughts**: Today I worked more on the Rock, Paper, Scissors project where my goal is to successfully implement DOM methods into the functions that I had created previously. I'm not fully confident on my understanding of DOM methods, so this project will be a great way to get me more practice with them. So far, I've been able to add a new class to the HTML successfully, but I'm having issues displaying the store and the game's results. It's frustrating, but I like that I'm able to reassess my design decisions.
+
+**Link(s) to work**
+1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
+
+## Day 24: June 24, 2022
+
+**Progress** Continued work on Rock, Paper, Scissors Project
+
+**Thoughts**: Today consisted of a lot of playing around with the design of my code. So far, I'm really dreading using JS with my websites. Restructuring my program takes a lot of time and a careful thought process, but it's worth it at the end. Today, I was able to get my score to display along with the result of the game. All that's left to do now is to add logic to end the game at a certain score and to make it look presentable. 
+
+**Link(s) to work**
+1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
+
+
