@@ -128,4 +128,13 @@
 **Link(s) to work**
 1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
 
+## Day 25: June 25, 2022
+
+**Progress** Continued work on Rock, Paper, Scissors Project
+
+**Thoughts**: Today I added in the logic to end the game when the score reaches 5, and I also began the process of creating a better UI with CSS. As of today, I'm officially a quarter of the way through the challenge. This is a huge milestone! It's been really hard to be consistent so far, but I'm happy with the progress that I've made. I can't wait to see what I will accomplish in the next 75 days.
+
+**Link(s) to work**
+1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
+
 
