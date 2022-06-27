@@ -137,4 +137,9 @@
 **Link(s) to work**
 1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
 
+## Day 26: June 27, 2022
+
+**Progress** Completed Rock, Paper, Scissors Project
+
+**Thoughts** Today I finished up my project by fixing some of the backend functionality and making a basic interface using CSS (specifically flexbox). There were a lot of small changes that I needed to implement from the code the last time I worked on it, so it was interesting seeing how taking a day off opened my mind to seeing new bugs. Thankfully, I was able to fix them and I am now finished with the project. 
 
