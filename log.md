@@ -143,3 +143,17 @@
 
 **Thoughts** Today I finished up my project by fixing some of the backend functionality and making a basic interface using CSS (specifically flexbox). There were a lot of small changes that I needed to implement from the code the last time I worked on it, so it was interesting seeing how taking a day off opened my mind to seeing new bugs. Thankfully, I was able to fix them and I am now finished with the project. 
 
+**Link(s) to work**
+1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
+
+## Day 27: June 28, 2022 
+
+**Progress** Started work on Etch-a-Sketch Project
+
+**Thoughts** Today I started my work on the Etch-a-Sketch Project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch). So far, I've been able to create a grid of div elements, but I am having issues figuring out how to add an onClick() event for them. This project seems to be much tougher than the Rock, Paper, Scissiors project, but I'm looking forward to developing a deeper understanding of JS concepts.
+
+**Link(s) to work**
+1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
+
+
+
