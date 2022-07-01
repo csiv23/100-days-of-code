@@ -159,7 +159,7 @@
 
 **Progress** Continued work on Etch-a-Sketch Project
 
-**Thoughts** Today I added functionality to change the color of each pixel on the grid by having the mouse hover over them. Additionally, I created a button for clearing the grid. I'm still having issues getting this to function, but I bet I will figure it out soon (hopefully).
+**Thoughts** Today I added functionality to change the color of each pixel on the grid by having the mouse hover over them. Additionally, I created a button for clearing the grid. I'm still having issues getting this to function, but I bet I will figure it out soon (hopefully). I also added a button so that a new grid will be generated of a specified size determined by the user's input.
 
 **Link(s) to work**
 1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
