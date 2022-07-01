@@ -155,5 +155,27 @@
 **Link(s) to work**
 1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
 
+# Day 28: June 29, 2022
+
+**Progress** Continued work on Etch-a-Sketch Project
+
+**Thoughts** Today I added functionality to change the color of each pixel on the grid by having the mouse hover over them. Additionally, I created a button for clearing the grid. I'm still having issues getting this to function, but I bet I will figure it out soon (hopefully).
+
+**Link(s) to work**
+1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
+
+# Day 29: June 30, 2022
+
+**Progress** Continued work on Etch-a-Sketch Project
+
+**Thoughts** Today I fixed the clear button to properly clear the grid, fixed a bug where the grid size would not stay the same regardless of the size of grid created, added a color picker to change the color of the brush, and added some CSS styling to the site. All that's left is to properly style the site, which I really want to focus on doing. I made a lot of progress today and I'm very happy with it. 
+
+**Link(s) to work**
+1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
+
+
+
+
+
 
 
