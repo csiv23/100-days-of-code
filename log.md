@@ -91,13 +91,13 @@
 
 ## Days 14 - 20: June 14-20, 2022
 
-**Progress**: Completed Project for [Sandbox](https://www.sandboxnu.com/) Application.
+**Today's Progress**: Completed Project for [Sandbox](https://www.sandboxnu.com/) Application.
 
-**Thoughts**: The past week I've worked on a project for Sandbox, a student-led software consultancy affiliated with Northeastern University. Although I am unable to put the code in here, I worked on developing the back-end of a javascript application using the Express framework within Node.js. This was a very new experience to me, so I had to do a lot of research. However, I learned more in this week than I have ever had before. Overall, I'm really happy with how my project turned out, and I think that the project made me much more comfortable with using Javascript.
+**Thoughts** The past week I've worked on a project for Sandbox, a student-led software consultancy affiliated with Northeastern University. Although I am unable to put the code in here, I worked on developing the back-end of a javascript application using the Express framework within Node.js. This was a very new experience to me, so I had to do a lot of research. However, I learned more in this week than I have ever had before. Overall, I'm really happy with how my project turned out, and I think that the project made me much more comfortable with using Javascript.
 
 ## Day 21: June 21st, 2022 
 
-**Progress** Completed Rock, Paper, Scissors project from [The Odin Project](www.theodinproject.com), set up GitHub Pages.
+**Today's Progress**: Completed Rock, Paper, Scissors project from [The Odin Project](www.theodinproject.com), set up GitHub Pages.
 
 **Thoughts**: Today was my first day back working through The Odin Project, and today's project felt like a breeze compared to my Sandbox application. Besides that, I set up GitHub pages, so I am now able to host the sites I create on my profile. This makes me really happy, as I can more easily display my work. I am really excited to keep working through the coursework of The Odin Project, and I can't wait to work on it tomorrow. 
 
@@ -106,76 +106,101 @@
 
 ## Day 22: June 22nd, 2022
 
-**Progress** Read from DOM Manipulation and Events module from [The Odin Project](www.theodinproject.com).
+**Today's Progress**: Read from DOM Manipulation and Events module from [The Odin Project](www.theodinproject.com).
 
 **Thoughts**: Today I learned about DOM Manipulation and events through Javascript, and it was overwhelming. This combined with me deciding to code later in the day caused me to really not want to code today. In order to get myself to understand the material more, I followed along with Wes Bos' tutorial [Make a JavaScript Drum Kit in Vanilla JS](https://www.youtube.com/watch?v=VuN8qwZoego). This video was really helpful, but I think I'm going to work on finding more resources so I can understand the concepts more.
 
 ## Day 23: June 23rd, 2022
 
-**Progress** Worked on Rock, Paper, Scissors Project.
+**Today's Progress**: Worked on Rock, Paper, Scissors Project.
 
 **Thoughts**: Today I worked more on the Rock, Paper, Scissors project where my goal is to successfully implement DOM methods into the functions that I had created previously. I'm not fully confident on my understanding of DOM methods, so this project will be a great way to get me more practice with them. So far, I've been able to add a new class to the HTML successfully, but I'm having issues displaying the store and the game's results. It's frustrating, but I like that I'm able to reassess my design decisions.
 
 **Link(s) to work**
 1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
 
-## Day 24: June 24, 2022
+## Day 24: June 24th, 2022
 
-**Progress** Continued work on Rock, Paper, Scissors Project.
+**Today's Progress**: Continued work on Rock, Paper, Scissors Project.
 
 **Thoughts**: Today consisted of a lot of playing around with the design of my code. So far, I'm really dreading using JS with my websites. Restructuring my program takes a lot of time and a careful thought process, but it's worth it at the end. Today, I was able to get my score to display along with the result of the game. All that's left to do now is to add logic to end the game at a certain score and to make it look presentable. 
 
 **Link(s) to work**
 1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
 
-## Day 25: June 25, 2022
+## Day 25: June 25th, 2022
 
-**Progress** Continued work on Rock, Paper, Scissors Project.
+**Today's Progress**: Continued work on Rock, Paper, Scissors Project.
 
 **Thoughts**: Today I added in the logic to end the game when the score reaches 5, and I also began the process of creating a better UI with CSS. As of today, I'm officially a quarter of the way through the challenge. This is a huge milestone! It's been really hard to be consistent so far, but I'm happy with the progress that I've made. I can't wait to see what I will accomplish in the next 75 days.
 
 **Link(s) to work**
 1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
 
-## Day 26: June 27, 2022
+## Day 26: June 27th, 2022
 
-**Progress** Completed Rock, Paper, Scissors Project.
+**Today's Progress**: Completed Rock, Paper, Scissors Project.
 
-**Thoughts** Today I finished up my project by fixing some of the backend functionality and making a basic interface using CSS (specifically flexbox). There were a lot of small changes that I needed to implement from the code the last time I worked on it, so it was interesting seeing how taking a day off opened my mind to seeing new bugs. Thankfully, I was able to fix them and I am now finished with the project. 
+**Thoughts**: Today I finished up my project by fixing some of the backend functionality and making a basic interface using CSS (specifically flexbox). There were a lot of small changes that I needed to implement from the code the last time I worked on it, so it was interesting seeing how taking a day off opened my mind to seeing new bugs. Thankfully, I was able to fix them and I am now finished with the project. 
 
 **Link(s) to work**
 1. [odin-rock-paper-scissors](https://github.com/csiv23/odin-rock-paper-scissors)
 
-## Day 27: June 28, 2022 
+## Day 27: June 28th, 2022 
 
-**Progress** Started work on Etch-a-Sketch Project
+**Today's Progress**: Started work on Etch-a-Sketch Project.
 
-**Thoughts** Today I started my work on the Etch-a-Sketch Project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch). So far, I've been able to create a grid of div elements, but I am having issues figuring out how to add an onClick() event for them. This project seems to be much tougher than the Rock, Paper, Scissiors project, but I'm looking forward to developing a deeper understanding of JS concepts.
-
-**Link(s) to work**
-1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
-
-# Day 28: June 29, 2022
-
-**Progress** Continued work on Etch-a-Sketch Project
-
-**Thoughts** Today I added functionality to change the color of each pixel on the grid by having the mouse hover over them. Additionally, I created a button for clearing the grid. I'm still having issues getting this to function, but I bet I will figure it out soon (hopefully). I also added a button so that a new grid will be generated of a specified size determined by the user's input.
+**Thoughts**: Today I started my work on the Etch-a-Sketch Project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-etch-a-sketch). So far, I've been able to create a grid of div elements, but I am having issues figuring out how to add an onClick() event for them. This project seems to be much tougher than the Rock, Paper, Scissiors project, but I'm looking forward to developing a deeper understanding of JS concepts.
 
 **Link(s) to work**
 1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
 
-# Day 29: June 30, 2022
+# Day 28: June 29th, 2022
 
-**Progress** Continued work on Etch-a-Sketch Project
+**Today's Progress**: Continued work on Etch-a-Sketch Project.
+
+**Thoughts**: Today I added functionality to change the color of each pixel on the grid by having the mouse hover over them. Additionally, I created a button for clearing the grid. I'm still having issues getting this to function, but I bet I will figure it out soon (hopefully). I also added a button so that a new grid will be generated of a specified size determined by the user's input.
+
+**Link(s) to work**
+1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
+
+# Day 29: June 30th, 2022
+
+**Today's Progress**: Continued work on Etch-a-Sketch Project.
 
 **Thoughts** Today I fixed the clear button to properly clear the grid, fixed a bug where the grid size would not stay the same regardless of the size of grid created, added a color picker to change the color of the brush, and added some CSS styling to the site. All that's left is to properly style the site, which I really want to focus on doing. I made a lot of progress today and I'm very happy with it. 
 
 **Link(s) to work**
 1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
 
+# Day 30: July 3st, 2022
+
+**Today's Progress**: Finished Etch-a-Sketch Project.
+
+**Thoughts**: Today I finished the Etch-a-Sketch project by fixing the CSS styling. I'm very happy with how it turned out!
+
+**Link(s) to work**
+1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
 
 
+# Day 31: July 5th, 2022 
 
+**Today's Progress**: Began work on Pomodoro Timer.
+
+**Thoughts**: Today I began on a personal project to create a pomodoro timer for use when studying. My goal for the project is to make it able to stream music from within the site, which will automatically stop once the timer ends. So far, I've just been able to get the layout up. I plan on picking away at this project little by little this Summer.
+
+**Link(s) to work**
+1. [pomodoro-timer](https://github.com/csiv23/pomodoro-timer)
+
+
+# Day 32: July 8th, 2022 
+
+**Today's Progress**: Worked on JS exercises, began Calculator project.
+
+**Thoughts**: Today I completed some of the exercises included in [Wes Bos' JavaScript30 series](https://www.youtube.com/watch?v=HB1ZC7czKRs) and started work on the Calculator project. 
+
+**Link(s) to work**
+1. [odin-calculator](https://github.com/csiv23/odin-calculator)
 
 
 
