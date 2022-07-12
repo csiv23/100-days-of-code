@@ -204,3 +204,13 @@
 
 
 
+# Day 33: July 11th, 2022 
+
+**Today's Progress**: Worked on Android Studio and Calculator project.
+
+**Thoughts**: As you can tell, I've been all over the place. I've just started Summer classes, and I've also began prepping for interviews with Leetcode. As a result, it's been hard to find the time to get to my projects. I've also felt pretty burnt out on front-end stuff lately, and just finishing a project made me uneager to start a new one. But today, I was able to get back on track. Today, I set up my Android Studio as part of the pre-work for the CodePath Android Development course I'm planning on taking this fall. I spent half of my time today figuring that out. The other half of today I spent working on the calculator project, which was really fun. I was able to get the basic structure of the site set up, and am working on adding functionality for the screen to display the digits from the buttons pressed. I really hope I get back into the swing of things, but getting back on track today was a good first step. 
+
+**Link(s) to work**
+1. [odin-calculator](https://github.com/csiv23/odin-calculator)
+
+
