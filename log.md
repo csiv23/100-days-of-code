@@ -222,4 +222,13 @@
 **Link(s) to work**
 1. [odin-calculator](https://github.com/csiv23/odin-calculator)
 
+# Day 35: July 13th, 2022 
+
+**Today's Progress**: Worked on Calculator project.
+
+**Thoughts**: Today I continued the work on my Calculator project. I was dealing with a bug where my display returned the incorrect result after a long series of operations. It took a while to fix, but I was able to get that done and also added a feature so that the result would display as each operation is successfully calculated. There are still some bugs as a result of reworkings of my logic, but hopefully I can fix them tomorrow. I've also decided that I'm going to go for the extra credit for this project, so I might spend a longer time on it than the other ones. I'm looking forward to see how this project ends up looking, so far its been a really enjoyable process.
+
+**Link(s) to work**
+1. [odin-calculator](https://github.com/csiv23/odin-calculator)
+
 
