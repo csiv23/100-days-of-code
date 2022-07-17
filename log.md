@@ -226,9 +226,27 @@
 
 **Today's Progress**: Worked on Calculator project.
 
-**Thoughts**: Today I continued the work on my Calculator project. I was dealing with a bug where my display returned the incorrect result after a long series of operations. It took a while to fix, but I was able to get that done and also added a feature so that the result would display as each operation is successfully calculated. There are still some bugs as a result of reworkings of my logic, but hopefully I can fix them tomorrow. I've also decided that I'm going to go for the extra credit for this project, so I might spend a longer time on it than the other ones. I'm looking forward to see how this project ends up looking, so far its been a really enjoyable process.
+**Thoughts**: Today I added support for the Calculator to display numbers after each calculation.
 
 **Link(s) to work**
 1. [odin-calculator](https://github.com/csiv23/odin-calculator)
 
+
+# Day 36: July 14th, 2022 
+
+**Today's Progress**: Worked on Calculator project.
+
+**Thoughts**: Today I added keyboard support for most of the functions of the calculator, and added a decimal place button.
+
+**Link(s) to work**
+1. [odin-calculator](https://github.com/csiv23/odin-calculator)
+
+# Day 37: July 16th, 2022 
+
+**Today's Progress**: Finished Calculator project.
+
+**Thoughts**: Today, I wrapped up the Calculator project by adding keyboard support for the rest of the functions, refactoring some functionality to improve the structure of the code, and added CSS styling. As of today, I have finished the Foundations curriculum of the [The Odin Project](www.theodinproject.com), and am now ready to move on to the Full Stack JavaScript path. I believe that this 100 day challenge has been a large component of getting me this far, and I'm especially thrilled that I was able to get this far in only 37 days of the challenge. I can't wait to see where the rest of this challenge will take me! 
+
+**Link(s) to work**
+1. [odin-calculator](https://github.com/csiv23/odin-calculator)
 
