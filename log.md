@@ -252,6 +252,13 @@
 
 # Day 38: July 17th, 2022 
 
-**Today's Progress**: Worked on HTML Tables Assessment.
+**Today's Progress**: Worked through Intermediate HTML and CSS curriculum, started HTML Tables Assessment.
 
-**Thoughts**: Today I learned about the structure of HTML tables and worked on the [HTML Tables assessment](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) by Mozilla docs. I'm almost done with it, I just need to iron some small fixed out. 
+**Thoughts**: Today I learned about the structure of HTML tables and worked on the [HTML Tables assessment](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) by Mozilla docs. I'm almost done with it, I just need to iron out some small bugs.
+
+# Day 39: July 18th, 2022 
+
+**Today's Progress**: Worked through Intermediate HTML and CSS curriculum, finished HTML Tables Assessment.
+
+**Thoughts**: Today I finished up the HTML Tables assessment, and learned about various CSS stylings, such as CSS Units, Text Styles, Advanced Selectors, and Positioning. To learn more about selectors, I used the interactive site [CSS Diner](https://flukeout.github.io/), which was a really fun way to learn. Additionally, I watched videos such as Kevin Powell's [introduction to Pseudo-classes and Pseudo-elements](https://www.youtube.com/watch?v=RmDh3m8b9cU) and Web Dev Simplified's [Learn CSS Position in 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU). 
+
