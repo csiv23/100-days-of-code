@@ -250,3 +250,8 @@
 **Link(s) to work**
 1. [odin-calculator](https://github.com/csiv23/odin-calculator)
 
+# Day 38: July 17th, 2022 
+
+**Today's Progress**: Worked on HTML Tables Assessment.
+
+**Thoughts**: Today I learned about the structure of HTML tables and worked on the [HTML Tables assessment](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) by Mozilla docs. I'm almost done with it, I just need to iron some small fixed out. 
