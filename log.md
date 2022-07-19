@@ -262,3 +262,11 @@
 
 **Thoughts**: Today I finished up the HTML Tables assessment, and learned about various CSS stylings, such as CSS Units, Text Styles, Advanced Selectors, and Positioning. To learn more about selectors, I used the interactive site [CSS Diner](https://flukeout.github.io/), which was a really fun way to learn. Additionally, I watched videos such as Kevin Powell's [introduction to Pseudo-classes and Pseudo-elements](https://www.youtube.com/watch?v=RmDh3m8b9cU) and Web Dev Simplified's [Learn CSS Position in 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU). 
 
+# Day 39: July 18th, 2022 
+
+**Today's Progress**: Worked through Intermediate HTML and CSS curriculum, worked on Calculator project.
+
+**Thoughts**: Today I worked on fixing some bugs within the Calculator project. There's still some minor fixes to be made, so over the next coming days I'll split my time between the coursework and fixing bugs within the Calculator. Besides that, I learned about CSS Variables today, and watched Kevin Powell's [introduction to CSS custom properties](https://www.youtube.com/watch?v=PHO6TBq_auI).
+
+**Link(s) to work**
+1. [odin-calculator](https://github.com/csiv23/odin-calculator)
