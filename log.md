@@ -262,7 +262,7 @@
 
 **Thoughts**: Today I finished up the HTML Tables assessment, and learned about various CSS stylings, such as CSS Units, Text Styles, Advanced Selectors, and Positioning. To learn more about selectors, I used the interactive site [CSS Diner](https://flukeout.github.io/), which was a really fun way to learn. Additionally, I watched videos such as Kevin Powell's [introduction to Pseudo-classes and Pseudo-elements](https://www.youtube.com/watch?v=RmDh3m8b9cU) and Web Dev Simplified's [Learn CSS Position in 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU). 
 
-# Day 39: July 18th, 2022 
+# Day 40: July 19th, 2022 
 
 **Today's Progress**: Worked through Intermediate HTML and CSS curriculum, worked on Calculator project.
 
@@ -270,3 +270,13 @@
 
 **Link(s) to work**
 1. [odin-calculator](https://github.com/csiv23/odin-calculator)
+
+# Day 41: July 20th, 2022 
+
+**Today's Progress**: Worked on Calculator project and worked through Intermediate HTML and CSS curriculum.
+
+**Thoughts**: I spent a majority of my time today fixing bugs within the calculator project, which involved reworking some of the operations I wrote. This was really annoying, but I eventually got it in a much better working state. Additionally, I learned about creating forms in HTML today, and followed along with [MDN's Your First Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form) tutorial and set up the repository for the Sign-up Form project.
+
+**Link(s) to work**
+1. [odin-calculator](https://github.com/csiv23/odin-calculator)
+2. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
