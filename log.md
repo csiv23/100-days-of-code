@@ -280,3 +280,12 @@
 **Link(s) to work**
 1. [odin-calculator](https://github.com/csiv23/odin-calculator)
 2. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
+
+# Day 42: July 21st, 2022 
+
+**Today's Progress**: Worked on Sign-up Form Project.
+
+**Thoughts**: Today, I worked on the Sign-up Form Project, mostly messing around with figuring out how to position the main elements on the site using CSS (I overcomplicated it a lot, but I eventually figured out the solution). 
+
+**Link(s) to work**
+1. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
