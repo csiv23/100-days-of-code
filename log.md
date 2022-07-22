@@ -289,3 +289,12 @@
 
 **Link(s) to work**
 1. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
+
+# Day 43: July 22nd, 2022 
+
+**Today's Progress**: Worked on Sign-up Form Project.
+
+**Thoughts**: Today, I added password validation to the Sign-up Form Project and fixed the styling. All I need to do now is add a logo to the page. Graphic Design isn't my passion, but I want to make this site look pretty good. 
+
+**Link(s) to work**
+1. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
