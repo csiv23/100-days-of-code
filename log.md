@@ -298,3 +298,12 @@
 
 **Link(s) to work**
 1. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
+
+# Day 44: July 23rd, 2022 
+
+**Today's Progress**: Finished Sign-up Form Project and worked on [Grid Garden](https://cssgridgarden.com/).
+
+**Thoughts**: Today, I finished up the Sign-up Form project by adding the logo and background, which was a little tricky because I had never overlaid a div onto an image before. Besides that, I began work on understanding grids in CSS, and worked my way through [Grid Garden](https://cssgridgarden.com/), which was a great intro to Grids. 
+
+**Link(s) to work**
+1. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
