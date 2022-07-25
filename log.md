@@ -299,11 +299,12 @@
 **Link(s) to work**
 1. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
 
-# Day 44: July 23rd, 2022 
+# Day 44: July 25th, 2022 
 
-**Today's Progress**: Finished Sign-up Form Project and worked on [Grid Garden](https://cssgridgarden.com/).
+**Today's Progress**: Worked on BPM Project.
 
-**Thoughts**: Today, I finished up the Sign-up Form project by adding the logo and background, which was a little tricky because I had never overlaid a div onto an image before. Besides that, I began work on understanding grids in CSS, and worked my way through [Grid Garden](https://cssgridgarden.com/), which was a great intro to Grids. 
+**Thoughts**: Today, I started on making the site for my Black Popular Music class project. So far, I have a map of the US with different symbols on it, which can be clicked to go to another page within the site. 
 
 **Link(s) to work**
-1. [odin-sign-up-form](https://github.com/csiv23/odin-sign-up-form)
+1. [bpm-project](https://github.com/csiv23/bpm-project)
+
