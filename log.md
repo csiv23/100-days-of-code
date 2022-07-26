@@ -308,3 +308,12 @@
 **Link(s) to work**
 1. [bpm-project](https://github.com/csiv23/bpm-project)
 
+# Day 45: July 26th, 2022 
+
+**Today's Progress**: Worked on BPM Project.
+
+**Thoughts**: Today I continued the work on the site for my Black Popular Music project. Today, I fixed the positioning of the map and the symbols, and added additional support to navigating the site.
+
+**Link(s) to work**
+1. [bpm-project](https://github.com/csiv23/bpm-project)
+
