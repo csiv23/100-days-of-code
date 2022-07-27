@@ -317,3 +317,12 @@
 **Link(s) to work**
 1. [bpm-project](https://github.com/csiv23/bpm-project)
 
+# Day 46: July 27th, 2022 
+
+**Today's Progress**: Worked through Intermediate HTML and CSS curriculum, started Admin Dashboard Project.
+
+**Thoughts**: Today I continued to learn about CSS grid, specifically through watching videos such as [Easily Structure your Layout with CSS Grid's 'grid-template-areas'](https://www.youtube.com/watch?v=qTGbWfEEnKI), [Flexbox vs. CSS Grid: Which Should You Use and When?](https://www.youtube.com/watch?v=18VLSXfsj94), [The EASIEST way to get started with CSS GRID](https://www.youtube.com/watch?v=_lEkD8IGkwo), and [The magic of auto-fit and auto-fill (and the difference between them)](https://www.youtube.com/watch?v=qjJR3qYCd54). Additionally, I set up the initial layout for the Admin Dashboard Project.
+
+**Link(s) to work**
+1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
+
