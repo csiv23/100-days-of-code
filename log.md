@@ -326,3 +326,12 @@
 **Link(s) to work**
 1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
 
+# Day 47: July 28th, 2022 
+
+**Today's Progress**: Worked on Admin Dashboard Project.
+
+**Thoughts**: Today I went further in depth with the layout of my dashboard project, specifically creating areas for the main content and left sidebar. All that's left for me to do is the header, the right sidebar, and adding some finishing touches (icons, logos, etc). So far, I've really been enjoying this project! 
+
+**Link(s) to work**
+1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
+
