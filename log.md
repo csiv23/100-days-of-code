@@ -335,3 +335,12 @@
 **Link(s) to work**
 1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
 
+# Day 48: August 1st, 2022 
+
+**Today's Progress**: Worked on Admin Dashboard Project.
+
+**Thoughts**: Today I added logos to both the main content and the sidebar areas of the site, and began to work on the header and right sidebar. I was running into difficulties with the header, so I decided that I would go back to it once I get the layouts of the more simple parts of the site first. 
+
+**Link(s) to work**
+1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
+
