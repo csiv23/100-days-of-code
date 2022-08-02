@@ -344,3 +344,11 @@
 **Link(s) to work**
 1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
 
+# Day 49: August 2nd, 2022 
+
+**Today's Progress**: Worked on Admin Dashboard Project.
+
+**Thoughts**: Today I finished up the styling for the right sidebar of the site, which included adding horizontal lines to sections and creating instances of suggested users. I also began working on the header, and waiting a day was definitely the right call. I feel like after doing the rest of the site, I am more comfortable with grids, so the header will be easier as a result. 
+
+**Link(s) to work**
+1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
