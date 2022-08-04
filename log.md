@@ -352,3 +352,12 @@
 
 **Link(s) to work**
 1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
+
+# Day 50: August 4th, 2022 
+
+**Today's Progress**: Finished Admin Dashboard Project.
+
+**Thoughts**: Today I finished up the Admin Dashboard by adding styling for the header (ex. adding user icons, a searchbar, etc). There's still more I could do for this project (such as adding animations, adding mobile support, etc), but for now I am satisfied with it. Today also marks the halfway point of the challenge! I've made so many projects so far (as you can see), and I really can't wait to continue making more. I seriously don't think I would have been able to make it this far in front end development without this challenge. I really can't put into words how proud I am of myself for making it this far, and I can't wait to see what I create in the next 50 days of the challenge. Woo!
+
+**Link(s) to work**
+1. [odin-admin-dashboard](https://github.com/csiv23/odin-admin-dashboard)
