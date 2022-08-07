@@ -370,3 +370,13 @@
 
 **Link(s) to work**
 1. [odin-library](https://github.com/csiv23/odin-library)
+
+
+# Day 52: August 7th, 2022 
+
+**Today's Progress**: Worked on Library Project.
+
+**Thoughts**: Today I added the visualization elements for each book added to the site. 
+
+**Link(s) to work**
+1. [odin-library](https://github.com/csiv23/odin-library)
