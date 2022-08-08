@@ -380,3 +380,12 @@
 
 **Link(s) to work**
 1. [odin-library](https://github.com/csiv23/odin-library)
+
+# Day 53: August 8th, 2022 
+
+**Today's Progress**: Worked on Library Project.
+
+**Thoughts**: Today I added support for the read and remove buttons for each book, as well as adjusting the structure of the HTML layout and adding styling for hovering over elements. Most of the backend work for this project is done, so I just have CSS work left to do now. I'm surprised this project was this quick!
+
+**Link(s) to work**
+1. [odin-library](https://github.com/csiv23/odin-library)
