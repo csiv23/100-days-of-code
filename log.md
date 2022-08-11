@@ -389,3 +389,12 @@
 
 **Link(s) to work**
 1. [odin-library](https://github.com/csiv23/odin-library)
+
+# Day 54: August 11th, 2022 
+
+**Today's Progress**: Worked on Library Project.
+
+**Thoughts**: I spent most of today styling the site and creating a cohesive color palette. I needed to restructure some functions, since I added containers and wrappers that caused bugs within some of the functions. 
+
+**Link(s) to work**
+1. [odin-library](https://github.com/csiv23/odin-library)
