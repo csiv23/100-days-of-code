@@ -398,3 +398,21 @@
 
 **Link(s) to work**
 1. [odin-library](https://github.com/csiv23/odin-library)
+
+# Day 55: August 12th, 2022 
+
+**Today's Progress**: Worked on BPM Project.
+
+**Thoughts**: Today I continued the work of my BPM project, which including styling the pages and correcting the anchor atributes. I spent a lot of my time researching on how to properly create a multi-page site within GitHub Pages, and I spent hours restructuring my file directory to get it to work. Thankfully I did, so the site is now much easier to navigate.
+
+**Link(s) to work**
+1. [bpm-project](https://github.com/csiv23/bpm-project)
+
+# Day 56: August 14th, 2022 
+
+**Today's Progress**: Worked on Library Project.
+
+**Thoughts**: I continued with styling the site today, mostly concerning adding animations to the header and styling the form. I utilized Chrome Dev Tools for most of this, which I have found is an amazing way to configure styling instead of refreshing the site. I still have some more styling to do, but I'm very happy with the site so far.
+
+**Link(s) to work**
+1. [odin-library](https://github.com/csiv23/odin-library)
