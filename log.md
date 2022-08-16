@@ -416,3 +416,13 @@
 
 **Link(s) to work**
 1. [odin-library](https://github.com/csiv23/odin-library)
+
+# Day 57: August 15th, 2022 
+
+**Today's Progress**: Worked on Android Studio Prework and BPM Project.
+
+**Thoughts**: Today I fully finished the work I needed to do for my CodePath Android Studio class and added further styling to the BPM project site.
+
+**Link(s) to work**
+1. [bpm-project](https://github.com/csiv23/bpm-project)
+2. [codepath-android-prework](https://github.com/csiv23/codepath-android-prework)
