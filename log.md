@@ -426,3 +426,13 @@
 **Link(s) to work**
 1. [bpm-project](https://github.com/csiv23/bpm-project)
 2. [codepath-android-prework](https://github.com/csiv23/codepath-android-prework)
+
+
+# Day 58: August 16th, 2022 
+
+**Today's Progress**: Worked on Library Project.
+
+**Thoughts**: Today I added styling for the submit and cancel buttons, fixed an issue with the sizing of the input field, and fixed some bugs within the event listeners for the read buttons.
+
+**Link(s) to work**
+1. [odin-library](https://github.com/csiv23/odin-library)
