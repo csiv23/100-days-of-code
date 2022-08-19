@@ -436,3 +436,12 @@
 
 **Link(s) to work**
 1. [odin-library](https://github.com/csiv23/odin-library)
+
+# Day 59: August 18th, 2022 
+
+**Today's Progress**: Finished BPM Project.
+
+**Thoughts**: Today I finished the BPM project, which involved styling all of the pages. This was a large undertaking, and basically took me the whole day. I learned a lot of things through styling this project, such as embedding YouTube videos and audio files. I'm super proud of how this project turned out!
+
+**Link(s) to work**
+1. [bpm-project](https://github.com/csiv23/bpm-project)
