@@ -173,7 +173,7 @@
 **Link(s) to work**
 1. [odin-etch-a-sketch](https://github.com/csiv23/odin-etch-a-sketch)
 
-# Day 30: July 3st, 2022
+# Day 30: July 3rd, 2022
 
 **Today's Progress**: Finished Etch-a-Sketch Project.
 
