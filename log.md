@@ -445,3 +445,12 @@
 
 **Link(s) to work**
 1. [bpm-project](https://github.com/csiv23/bpm-project)
+
+# Day 60: August 23th, 2022 
+
+**Today's Progress**: Finished Library Project and began "Learn React for free" Course.
+
+**Thoughts**: It's been a second since I've last logged in here. Finals of my classes were this past week, so I had to put all of my focus into them for a bit. I was also burnt out on coding after spending hours on the BPM Project, and I felt like progress was going slow on the Library project (styling takes forever and isn't that fun for me). Fortunately, today was my last day of classes! For coding work today, I finished up the library project by finishing up the styling and adding some features to the backend to make sure that inputs were valid. I'm really happy with how this project works and looks. Besides that, I began Bob Ziroll's [Learn React for free](https://scrimba.com/learn/learnreact) course on Scrimba. I decided to learn React from a site other than the Odin Project, and it might take a bit for me to decide which site I want to use as a primary resource, but for now I'll try out the Scrimba course. I'm excited to learn React, and hoppefully I can get some projects posted in here soon.
+
+**Link(s) to work**
+1. [odin-library](https://github.com/csiv23/odin-library)
