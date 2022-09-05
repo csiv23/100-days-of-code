@@ -472,3 +472,9 @@
 **Today's Progress**: Worked on "Learn React for free" Scrimba Course
 
 **Thoughts**: I took another break from this challenge due to moving back into college and needing some time away from programming. I've been stuck in a rut with being in-between new projects, and coursework isn't as satisfying to me as completing a full project on my own. Nevertheless, today I got back on the challenge and continued with the Scrimba Course, where I mimicked the layout of a homepage for a website. The course has assigned me my first solo project, a Digital Business Card, which I'm looking forward to doing as a way to get me invested in this challenge once again. 
+
+# Day 64: September 5th, 2022
+
+**Today's Progress**: Began Digital Business Card Project from "Learn React for free" Scrimba Course
+
+**Thoughts**: Today, I began the digital business card project, and am almost done with it! I spent most of my time figuring out how to get icons from FontAwesome to show up in the scrimba IDE, but as I finished up today I figured it out. Mostly everything is styled, aside from the icons that I need to add for the footer and other aspects of the project. Overall, this project was really easy and I'm happy that I got most of it done today.
