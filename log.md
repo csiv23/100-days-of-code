@@ -454,3 +454,21 @@
 
 **Link(s) to work**
 1. [odin-library](https://github.com/csiv23/odin-library)
+
+# Day 61: August 24th, 2022
+
+**Today's Progress**: Worked on "Learn React for free" Scrimba Course:
+
+**Thoughts**: Today, I continued working through the Scrimba course.
+
+# Day 62: August 26th, 2022
+
+**Today's Progress**: Worked on "Learn React for free" Scrimba Course and Worked on Manga API Project:
+
+**Thoughts**: Today, I continued working through the Scrimba course, as well as worked on getting the MyAnimeList API to work for my Manga API Project. It's really tough figuring out access tokens and authorization, but hopefully I'll figure it out.
+
+# Day 63: September 4th, 2022
+
+**Today's Progress**: Worked on "Learn React for free" Scrimba Course
+
+**Thoughts**: I took another break from this challenge due to moving back into college and needing some time away from programming. I've been stuck in a rut with being in-between new projects, and coursework isn't as satisfying to me as completing a full project on my own. Nevertheless, today I got back on the challenge and continued with the Scrimba Course, where I mimicked the layout of a homepage for a website. The course has assigned me my first solo project, a Digital Business Card, which I'm looking forward to doing as a way to get me invested in this challenge once again. 
