@@ -478,3 +478,14 @@
 **Today's Progress**: Began Digital Business Card Project from "Learn React for free" Scrimba Course
 
 **Thoughts**: Today, I began the digital business card project, and am almost done with it! I spent most of my time figuring out how to get icons from FontAwesome to show up in the scrimba IDE, but as I finished up today I figured it out. Mostly everything is styled, aside from the icons that I need to add for the footer and other aspects of the project. Overall, this project was really easy and I'm happy that I got most of it done today.
+
+# Day 65: September 6th, 2022
+
+**Today's Progress**: Finished Digital Business Card Project from "Learn React for free" Scrimba Course
+
+**Thoughts**: Most of my time today involved finishing the Digital Business Card project, which mostly consisted of styling icons from FontAwesome and deploying the site. The site does need some scaling work to be done, but I think I can tackle that issue later on. I'm mostly concerned with going through the coursework and learning more about React, and I'd rather put forth more time and effort into my next project that I work on. I'll probably go back to this project at some point though.
+
+**Link(s) to work**
+1. [digital-business-card](https://github.com/csiv23/digital-business-card)
+
+
