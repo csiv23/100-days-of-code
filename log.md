@@ -10,7 +10,7 @@
 1. [Recipes Project](https://github.com/csiv23/odin-recipes)
 
 
-### Day 2: June 1, 2022
+### Day 2: June 1st, 2022
 
 **Today's Progress**: Worked on CSS Foundations course from [The Odin Project](www.theodinproject.com).
 
@@ -446,7 +446,7 @@
 **Link(s) to work**
 1. [bpm-project](https://github.com/csiv23/bpm-project)
 
-# Day 60: August 23th, 2022 
+# Day 60: August 23rd, 2022 
 
 **Today's Progress**: Finished Library Project and began "Learn React for free" Course.
 
@@ -488,10 +488,14 @@
 **Link(s) to work**
 1. [digital-business-card](https://github.com/csiv23/digital-business-card)
 
-# Day 6: September 7th, 2022
+# Day 66: September 7th, 2022
 
 **Today's Progress**: Worked on "Learn React for free" Scrimba Course
 
 **Thoughts**: Today I continued with the Scrimba course I've been working through, which involved me learning about Props in React. This section will show me how to build an AirBnb Experiences clone, and from there I will be able to make a project on my own that will use the concepts learned through the course. So far, I'm about halfway through the section for this project, and I really feel like I'm learning a lot!
 
+# Day 67: September 8th, 2022
 
+**Today's Progress**: Worked on "Learn React for free" Scrimba Course
+
+**Thoughts**: I continued with the Scrimba course today, learning more about how to use methods such as array.map() in conjunction with props in order to allow sites to utilize data and be much more dynamic. 
