@@ -499,3 +499,9 @@
 **Today's Progress**: Worked on "Learn React for free" Scrimba Course
 
 **Thoughts**: I continued with the Scrimba course today, learning more about how to use methods such as array.map() in conjunction with props in order to allow sites to utilize data and be much more dynamic. 
+
+# Day 68: September 9th, 2022
+
+**Today's Progress**: Started Travel Log Project from "Learn React for free" Scrimba Course
+
+**Thoughts**: Today I worked on the Travel Log Project, which mostly consisted of me completing the navbar and the basic structure of each card. Most of whats left is styling, so this project shouldn't take long. This latest section of lessons have been extremely helpful for making sites that are easier to maintain, and I'm really happy with the progression of the projects that I've made since beginning this course/overall challenge.
