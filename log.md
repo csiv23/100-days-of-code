@@ -512,3 +512,12 @@
 **Today's Progress**: Continued Working on Travel Log Project from "Learn React for free" Scrimba Course
 
 **Thoughts**: Turns out that all of my work had been deleted from last time (due to issues with Scrimba servers), so I had to redo it. I got to basically the same place as I did last time, so I just have styling left to do. Thankfully, I downloaded an extra copy of my work this time around.
+
+# Day 70: September 12th, 2022
+
+**Today's Progress**: Continued Working on Travel Log Project from "Learn React for free" Scrimba Course
+
+**Thoughts**: Today I finished up most of what's left for the project, aside from deployment (which I'm trying to do from a repository instead of through manual upload). Surprisingly, the toughest task for me today was figuring out how to render a couple of lines after each card on the site. I ended up doing a lot of research into conditional rendering, but it turns out that I only needed a single line to achieve the desired result. I'm happy with how this project turned out and I'm proud of myself for not being discouraged after I had lost a day's worth of progress.
+
+**Link(s) to work**
+1. [travel-log](https://github.com/csiv23/travel-log)
