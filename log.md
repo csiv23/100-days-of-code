@@ -521,3 +521,12 @@
 
 **Link(s) to work**
 1. [travel-log](https://github.com/csiv23/travel-log)
+
+# Day 70: September 13th, 2022
+
+**Today's Progress**: Finished Travel Log Project from "Learn React for free" Scrimba Course, Continued Working on Course
+
+**Thoughts**: Today I finished the site by deploying it. Besides that, I spent a majority of my time today working through the Scrimba course, specifically learning about the concept of State and Hooks in React. 
+
+**Link(s) to work**
+1. [travel-log](https://github.com/csiv23/travel-log)
