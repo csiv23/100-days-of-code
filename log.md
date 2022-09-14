@@ -530,3 +530,9 @@
 
 **Link(s) to work**
 1. [travel-log](https://github.com/csiv23/travel-log)
+
+# Day 71: September 14th, 2022
+
+**Today's Progress**: Worked on "Learn React for free" Scrimba Course
+
+**Thoughts**: Today I furthered my understanding of state and props in React through various exercises. I found this to be really tedious, but I understand that this work will be very beneficial in the future.
