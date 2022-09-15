@@ -506,7 +506,6 @@
 
 **Thoughts**: Today I worked on the Travel Log Project, which mostly consisted of me completing the navbar and the basic structure of each card. Most of whats left is styling, so this project shouldn't take long. This latest section of lessons have been extremely helpful for making sites that are easier to maintain, and I'm really happy with the progression of the projects that I've made since beginning this course/overall challenge.
 
-
 # Day 69: September 11th, 2022
 
 **Today's Progress**: Continued Working on Travel Log Project from "Learn React for free" Scrimba Course
@@ -536,3 +535,9 @@
 **Today's Progress**: Worked on "Learn React for free" Scrimba Course
 
 **Thoughts**: Today I furthered my understanding of state and props in React through various exercises. I found this to be really tedious, but I understand that this work will be very beneficial in the future.
+
+# Day 72: September 15th, 2022
+
+**Today's Progress**: Worked on "Learn React for free" Scrimba Course
+
+**Thoughts**: Today I continued working through the Scrimba course, where I completed various challenges to learn more about state and props in React. The course dives pretty deep into these properties, and I feel like I'm learning a lot!
