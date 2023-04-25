@@ -541,3 +541,15 @@
 **Today's Progress**: Worked on "Learn React for free" Scrimba Course
 
 **Thoughts**: Today I continued working through the Scrimba course, where I completed various challenges to learn more about state and props in React. The course dives pretty deep into these properties, and I feel like I'm learning a lot!
+
+# Day 1: April 25th, 2023
+
+**Today's Progress**: Worked on Twitch-Swiper Project
+
+**Thoughts**: I'm back on the challenge! Unfortunately, my commitment to classes caused me to not have enough time to continue this challenge. However, finals have just wrapped up for me, so I'm giving it a second go. My goal this time around is to work on interesting side projects, as opposed to completing coursework. I'm currently working on a project designed to recommend Twitch profiles to users. It's an ambitious project, but I'm looking forward to making progress on it. Today, I set up the API. I was having issues with rendering, so I'll work on trying to fix them tomorrow.
+
+**Link(s) to work**
+1. [twitch-swiper](https://github.com/csiv23/twitch-swiper)
+
+
+
