@@ -552,4 +552,11 @@
 1. [twitch-swiper](https://github.com/csiv23/twitch-swiper)
 
 
+# Day 1: July 25th, 2023
+
+**Today's Progress**: Worked on manga-updater-bot
+
+**Thoughts**: To be totally honest, I think I'm just going to use this as a log instead of going forth with the challenge. I worked on my manga-updater-bot project today, which isn't really a manga-updater. I don't fully know what I want this project to be yet. I'm just learning to work with API authentication (turns out it is really annoying). I've gotten the first two steps down, but now I just need to figure out a way to have users sign in through my discord bot. I might have to look at some already existing projects that use the MAL API in order to figure this out. 
+
+
 
